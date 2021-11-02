@@ -1,7 +1,8 @@
-# Repository without "venv" folder. How to install it:
+# Python Rock Paper Scissors minigame!
+## Repository without "venv" folder. How to install it:
 
-## **In Windows, run the command:**
+### **In Windows, run the command:**
 ```python -m venv venv```
 
-## **In Linux or Mac, run the command:**
+### **In Linux or Mac, run the command:**
 ```python3 -m venv venv```
